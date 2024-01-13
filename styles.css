@@ -5,7 +5,7 @@ body{background-color:#f5f5f5;}
 	  color:white;text-align:center;padding-top:25px}
 .container{width:100vw; display:flex;background-color:#f5f5f5;
 		   justify-content:space-around}
-.latest-news-section{background-color:white; width:30%}
-.main{background-color:white; width:30%}
-.latest-news-section{background-color:white; width:40%}
+.latest-news-section{background-color:white; width:15%;text-align:center;height:150px;border-radius:10px;padding:5px;}
+.main{background-color:white; width:35%;text-align:center;height:250px;border-radius:10px}
+.pictorial-news-section{background-color:white; width:25%;text-align:center;border-radius:10px;padding:5px}
 .photo{width:200px}
